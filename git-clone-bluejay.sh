@@ -1,0 +1,10 @@
+git clone https://github.com/governify/bluejay-infrastructure
+git clone https://github.com/governify/render
+git clone https://github.com/governify/assets-manager
+git clone https://github.com/governify/reporter
+git clone https://github.com/governify/registry
+git clone https://github.com/governify/dashboard
+git clone https://github.com/governify/assets-manager
+git clone https://github.com/governify/director
+git clone https://github.com/governify/collector-events
+git clone https://github.com/governify/join-bluejay
