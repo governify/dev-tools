@@ -9,3 +9,5 @@ git clone https://github.com/governify/director
 git clone https://github.com/governify/collector-events
 git clone https://github.com/governify/scope-manager
 git clone https://github.com/governify/join-bluejay
+git clone https://github.com/governify/galibo-logs
+git clone https://github.com/governify/collector-dynamic
