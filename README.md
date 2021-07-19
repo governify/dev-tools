@@ -9,7 +9,6 @@ For example, governify commons can be easily updated for all the repositories of
 ./git-checkout-all origin/develop # Checkes out all repositories to the development branch
 ./npm-update-commons.sh # Runs the npm update command in all directories. If the folder is not an npm project or commons is not installed nothing happens
 ./git-commit-all.sh "feat: updated governify commons" # Commits with the passed parameter and pushes to the origin branch
-
 ```
 
 The file `run-command-all.sh` contains generic script that receives a command as first parameter and executes it inside all directories.
